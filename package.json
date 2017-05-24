@@ -1,0 +1,19 @@
+{
+  "name": "root-styles",
+  "version": "1.0.0",
+  "description": "Root Inc base styles.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootinc/root-styles.git"
+  },
+  "author": "Root Inc",
+  "bugs": {
+    "url": "https://github.com/rootinc/root-styles/issues"
+  },
+  "homepage": "https://github.com/rootinc/root-styles#readme",
+  "dependencies": {
+    "bourbon": "^4.3.3",
+    "bourbon-neat": "^2.0.0",
+    "normalize.css": "^5.0.0"
+  }
+}
